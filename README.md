@@ -13,11 +13,9 @@
   
 <h3 align="center">About me 😇</h3>
 
-- :raising_hand: I am an enthusiastic selftaught frontend developer and accessibility advocate since 2020
+- :raising_hand: I am a selftaught frontend developer 2020
 - :muscle: I am currently helping others to get into tech too by creating content, blog posts and open source projects
-- :speech_balloon: Ask me about anything related to accessibility. I am happy to help
-- 🏆 Top 5 (out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/tag/4articles4weeks">my articles for this Challenge</a>
-- :ghost: Fun fact: I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself
+- :ghost: Fun fact: I studied alim and bangali studies, but I switched careers in my 30s and learned coding all by myself
 
 
 </td><td valign="top" width="50%">
@@ -26,9 +24,6 @@
 <br />
 
 - I am a mentor by 💙 helping people switching careers into tech too
-- Check out my <a href="https://yuriscodingclub.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions on how to get into tech
-- I created an organization called <a href="https://github.com/YurisCodingClub">YurisCodingClub</a> to help others contribute to open source and get familiar with it.
-  
   <div align="center">Beginners are very welcome 😇</div>
   
 <br />
@@ -46,11 +41,12 @@
 
 <br />
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Typescript-235a97?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Scss-38B2AC?style=for-the-badge&logo=scss&logoColor=white" />
 <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -64,7 +60,7 @@
   
 </td><td valign="top" width="50%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shorifpatwary&layout=compact&theme=radical" width="500" />
   
 </tr></tr></table> 
 
