@@ -81,21 +81,21 @@
 <div align="center">
 
 <a href="https://github.com/YuriDevAT/sos-animals">
-<img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=Jonaki-Shop&theme=tokyonight" />
+<img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=Jonaki-Shop&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-<img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=React-polls-application&theme=tokyonight" />
+<img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=React-polls-application&theme=tokyonight" />
 </a>
 </div>
  <div align="center">
 
 <a href="https://github.com/YuriDevAT/sos-animals">
-<img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=React-Todo-App&theme=tokyonight" />
+<img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=React-Todo-App&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-<img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=ReUsable-code&theme=tokyonight" />
+<img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=ReUsable-code&theme=tokyonight" />
 </a>
 </div>
 
