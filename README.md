@@ -23,8 +23,8 @@
 <h3 align="center">💟 Open Source & Community</h3>
 <br />
 
-- I am a mentor by 💙 helping people switching careers into tech too
-  <div align="center">Beginners are very welcome 😇</div>
+- I always try to help and share my knowledge with other developers by contributing open source project.
+ 
   
 <br />
 <!--
@@ -70,29 +70,36 @@
 <h2 align="center"> 📕 Latest Blog Posts</h2>
   
 <!-- DEV:START -->
-- [Stop being afraid to speak in a foreign language](https://dev.to/yuridevat/stop-being-afraid-to-speak-in-a-foreign-language-1484)
-- [Accessibility in Visual Design - Visual Layout](https://dev.to/yuridevat/accessibility-in-visual-design-visual-layout-2j7l)
+- [Most useful CSS techniques to create responsive images CSS-Tricks](https://www.linkedin.com/pulse/most-useful-css-techniques-create-responsive-images-shorif-patwary/)
+- [How to improve performance in your react js website](https://www.linkedin.com/pulse/how-improve-performance-your-react-js-website-shoriful-islam-/)
 - [My Journey To Becoming An A11y Expert: Current Status](https://dev.to/yuridevat/my-journey-to-becoming-an-a11y-expert-current-status-4of8)
-- [Best of 2022 - Recap of my blog posts](https://dev.to/yuridevat/best-of-2022-recap-of-my-blog-posts-3bko)
-- [DOM manipulation - using Array method on HTML tags](https://dev.to/yuridevat/dom-manipulation-using-array-method-on-html-tags-3mgp)
 <!-- DEV:END -->
 
-... [Read more articles on Dev.To](https://dev.to/yuridevat)
+... 
 
-I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝
 
 </td><td valign="top" width="60%">
 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 <div align="center">
-<img width="200" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
+
 <a href="https://github.com/YuriDevAT/sos-animals">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=Jonaki-Shop&theme=tokyonight" />
 </a>
-<img width="200" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
+
 <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=React-polls-application&theme=tokyonight" />
+</a>
+</div>
+  <div align="center">
+
+<a href="https://github.com/YuriDevAT/sos-animals">
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=React-Todo-App&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=ReUsable-code&theme=tokyonight" />
 </a>
 </div>
 
