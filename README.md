@@ -27,10 +27,6 @@
  
   
 <br />
-<!--
-![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo.svg#gh-light-mode-only)
-![YurisCodingClub](https://github.com/YuriDevAT/yuriscodingclub/blob/main/public/images/logo-dark.png#gh-dark-mode-only)
--->
 </tr></tr></table> 
 
 <br />
@@ -85,21 +81,21 @@
 <div align="center">
 
 <a href="https://github.com/YuriDevAT/sos-animals">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=Jonaki-Shop&theme=tokyonight" />
+<img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=Jonaki-Shop&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=React-polls-application&theme=tokyonight" />
+<img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=React-polls-application&theme=tokyonight" />
 </a>
 </div>
-  <div align="center">
+ <div align="center">
 
 <a href="https://github.com/YuriDevAT/sos-animals">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=React-Todo-App&theme=tokyonight" />
+<img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=React-Todo-App&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=ReUsable-code&theme=tokyonight" />
+<img width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=Shorifpatwary&repo=ReUsable-code&theme=tokyonight" />
 </a>
 </div>
 
@@ -109,14 +105,11 @@
 <h2 align="center">About me 😇</h2>
 
 <br />
-<p>🏆 Top 5 (out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/tag/4articles4weeks">my articles for this Challenge</a>.</p>
-<p>🥳 One of the Runner Ups (out of over 30) at Clerk x Hashnode Hackathon July 2021 with my project <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a>.</p>
-<br />
 <p>:muscle: I am currently ... helping others to get into tech too by creating content, blog posts and open source projects.</p>
-<p>:eyes: I’m currently learning ... everything about accessibility from the design process to web development to testing.</p>
+<p>:eyes: I’m currently learning ... everything about Web development | front-end developent from the design process to web development to testing.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Ask me about anything related to... accessibility. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself. </p>
+<p>:speech_balloon: Ask me about anything related to... Front-end development. I am happy to help.</p>
+<p>:ghost: Fun fact: ... I studied Alim and Arabic studies, but I switched careers in my 30s and learned coding all by myself. </p>
 -->
 
 <!--
@@ -133,8 +126,4 @@ I love connecting with different people, so say hi! I'll be happy to meet you mo
 <br />
 <h2 align="center"> 📕 Latest Blog Posts</h2>
 -->
-<!--
-... [Read more articles on Dev.To](https://dev.to/yuridevat)
 
-<p>I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝.</p>
--->
